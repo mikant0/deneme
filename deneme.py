@@ -1,0 +1,1 @@
+print("proje deneme")
